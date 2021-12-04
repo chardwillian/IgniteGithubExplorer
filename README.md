@@ -65,7 +65,7 @@ $ yarn dev
 
 ## :film_strip: Demonstração
 
-![print](./public/assets/github_explorer.png)
+![print](./public/assets/githubexplorer.png)
 
 ## :memo: Licença
 
